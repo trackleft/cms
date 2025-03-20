@@ -1,7 +1,4 @@
 name: CMS
 type: profile
 description: 'Tracklefts install profile.'
-core_version_requirement: ^9.5 || ^10 || ^11
-
-themes:
-  - claro
+core_version_requirement: ^11

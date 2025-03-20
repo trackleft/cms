@@ -3,16 +3,16 @@
     "description": "An install profile for shared configuration management with Drupal CMS",
     "type": "drupal-custom-profile",
     "require": {
-        "drupal/config_distro": "2.0.0-alpha2",
-        "drupal/config_ignore": "3.3.0",
-        "drupal/config_ignore_readonly": "2.2.0",
-        "drupal/config_provider": "3.0.0-alpha1",
-        "drupal/config_readonly": "1.0.0",
-        "drupal/config_snapshot": "2.0.0",
-        "drupal/config_split": "2.0.2",
-        "drupal/config_sync": "3.0.0-alpha3",
-        "drupal/config_update": "2.0.0-alpha3",
-        "drupal/core": ">=9.5"
+        "drupal/config_distro": "dev-2.0.x",
+        "drupal/config_ignore": "dev-3.3.x",
+        "drupal/config_ignore_readonly": "dev-2.2.x",
+        "drupal/config_provider": "dev-3.0.x",
+        "drupal/config_readonly": "dev-1.0.x",
+        "drupal/config_snapshot": "dev-2.0.x",
+        "drupal/config_split": "dev-2.0.x",
+        "drupal/config_sync": "dev-3.0.x",
+        "drupal/config_update": "dev-2.0.x",
+        "drupal/core": "^11"
     },
     "license": "GPL-2.0-or-later",
     "authors": [

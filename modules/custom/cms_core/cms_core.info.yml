@@ -1,7 +1,7 @@
 name: 'CMS Core'
 type: module
 description: 'Core config'
-core_version_requirement: ^9 || ^10
+core_version_requirement: ^11
 package: 'Distribution Maintainers Anonymous'
 dependencies:
   - config_distro:config_distro
