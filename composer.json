@@ -21,5 +21,15 @@
             "homepage": "https://github.com/trackleft"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "patches": {
+            "drupal/config_distro": {
+                "Allow to work with Drupal 11 (3428536)": "https://git.drupalcode.org/project/config_distro/-/merge_requests/23.diff"
+            },
+            "drupal/config_sync": {
+                "Allow to work with Drupal 11 (3429477)": "https://git.drupalcode.org/project/config_sync/-/merge_requests/22.diff"
+            }
+        }
+    }
 }
