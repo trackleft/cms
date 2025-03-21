@@ -1,0 +1,6 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - eca_base
+    - eca_config

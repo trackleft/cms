@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.media_library
+    - field.field.media.image.field_media_image
+    - image.style.media_library_square_thumbnail
+    - media.type.image
+  module:
+    - svg_image

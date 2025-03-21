@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.2_3_500x750_focal_point_webp
+    - image.style.2_3_640x960_focal_point_webp
+  theme:
+    - olivero

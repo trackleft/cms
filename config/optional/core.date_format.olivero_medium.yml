@@ -1,0 +1,6 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    theme:
+      - olivero

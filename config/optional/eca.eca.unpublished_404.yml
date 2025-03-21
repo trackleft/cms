@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - eca_base
+    - eca_content
+    - eca_misc
+    - eca_user

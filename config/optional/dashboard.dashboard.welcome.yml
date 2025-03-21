@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.welcome
+    - views.view.recent_content
+  module:
+    - announcements_feed
+    - layout_builder
+    - layout_discovery
+    - system
+    - views

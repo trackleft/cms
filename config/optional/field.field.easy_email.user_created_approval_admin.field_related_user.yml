@@ -1,0 +1,6 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - easy_email.easy_email_type.user_created_approval_admin
+    - field.storage.easy_email.field_related_user

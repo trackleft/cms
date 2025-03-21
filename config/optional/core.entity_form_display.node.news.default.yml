@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.news.field_content
+    - field.field.node.news.field_description
+    - field.field.node.news.field_featured_image
+    - field.field.node.news.field_tags
+    - node.type.news
+    - workflows.workflow.basic_editorial
+  module:
+    - content_moderation
+    - media_library
+    - path
+    - scheduler
+    - text

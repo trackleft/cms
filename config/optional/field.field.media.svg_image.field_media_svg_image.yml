@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.media.field_media_svg_image
+    - media.type.svg_image
+  module:
+    - image

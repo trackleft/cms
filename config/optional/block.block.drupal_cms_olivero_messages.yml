@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - drupal_cms_olivero

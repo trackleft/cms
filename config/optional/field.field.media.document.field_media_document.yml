@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.media.field_media_document
+    - media.type.document
+  module:
+    - file
+  enforced:
+    module:
+      - media

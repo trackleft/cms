@@ -1,0 +1,17 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.news.field_content
+    - field.field.node.news.field_description
+    - field.field.node.news.field_featured_image
+    - field.field.node.news.field_tags
+    - node.type.news
+  module:
+    - layout_builder
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false

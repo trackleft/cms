@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - eca_content
+    - eca_misc
+    - eca_render

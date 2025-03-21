@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.uncropped_300w_webp
+  theme:
+    - olivero
