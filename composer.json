@@ -4,10 +4,10 @@
     "type": "drupal-custom-profile",
     "require": {
         "drupal/config_distro": "dev-2.0.x",
-        "drupal/config_ignore": "dev-3.3.x",
-        "drupal/config_ignore_readonly": "dev-2.2.x",
+        "drupal/config_ignore": "dev-3.x",
+        "drupal/config_ignore_readonly": "dev-2.x",
         "drupal/config_provider": "dev-3.0.x",
-        "drupal/config_readonly": "dev-1.0.x",
+        "drupal/config_readonly": "dev-1.x",
         "drupal/config_snapshot": "dev-2.0.x",
         "drupal/config_split": "dev-2.0.x",
         "drupal/config_sync": "dev-3.0.x",
